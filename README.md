@@ -1,1 +1,0 @@
-# AICTE_INTERNSHIP-spam-sms-detection
